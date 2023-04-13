@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\bin\Debug\net6.0\01.TheProblem.exe
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\bin\Debug\net6.0\01.TheProblem.deps.json
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\bin\Debug\net6.0\01.TheProblem.runtimeconfig.json
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\bin\Debug\net6.0\01.TheProblem.dll
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\bin\Debug\net6.0\01.TheProblem.pdb
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\obj\Debug\net6.0\01.TheProblem.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\obj\Debug\net6.0\01.TheProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\obj\Debug\net6.0\01.TheProblem.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\obj\Debug\net6.0\01.TheProblem.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\obj\Debug\net6.0\01.TheProblem.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\obj\Debug\net6.0\01.TheProblem.dll
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\obj\Debug\net6.0\refint\01.TheProblem.dll
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\obj\Debug\net6.0\01.TheProblem.pdb
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\obj\Debug\net6.0\01.TheProblem.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson4.Methotds\Lesson4.Methotds\obj\Debug\net6.0\ref\01.TheProblem.dll
