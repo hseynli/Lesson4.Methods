@@ -1,0 +1,15 @@
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\bin\Debug\net6.0\02.HowMethodsHelpUs.exe
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\bin\Debug\net6.0\02.HowMethodsHelpUs.deps.json
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\bin\Debug\net6.0\02.HowMethodsHelpUs.runtimeconfig.json
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\bin\Debug\net6.0\02.HowMethodsHelpUs.dll
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\bin\Debug\net6.0\02.HowMethodsHelpUs.pdb
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\obj\Debug\net6.0\02.HowMethodsHelpUs.csproj.AssemblyReference.cache
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\obj\Debug\net6.0\02.HowMethodsHelpUs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\obj\Debug\net6.0\02.HowMethodsHelpUs.AssemblyInfoInputs.cache
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\obj\Debug\net6.0\02.HowMethodsHelpUs.AssemblyInfo.cs
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\obj\Debug\net6.0\02.HowMethodsHelpUs.csproj.CoreCompileInputs.cache
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\obj\Debug\net6.0\02.HowMethodsHelpUs.dll
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\obj\Debug\net6.0\refint\02.HowMethodsHelpUs.dll
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\obj\Debug\net6.0\02.HowMethodsHelpUs.pdb
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\obj\Debug\net6.0\02.HowMethodsHelpUs.genruntimeconfig.cache
+E:\Projects\VsProjects\Lesson4.Methotds\02.HowMethodsHelpUs\obj\Debug\net6.0\ref\02.HowMethodsHelpUs.dll
